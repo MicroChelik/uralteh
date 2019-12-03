@@ -56,6 +56,54 @@ $(document).ready(function(){
 		dots: true,
 		swipeToSlide: true,
 	});
+	$('.section-solutions__slider').slick({
+		infinite: false,
+		slidesToShow: 3,
+		slidesToScroll: 1,
+		arrows: false,
+		dots: true,
+		swipeToSlide: true,
+	});
+	$('.partners-slider').slick({
+		infinite: false,
+		slidesToShow: 4,
+		slidesToScroll: 1,
+		arrows: false,
+		dots: true,
+		swipeToSlide: true,
+	});
+	$('.newses-slider').slick({
+		infinite: false,
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		arrows: true,
+		dots: false,
+		swipeToSlide: true,
+	});
+	$('.publication-slider').slick({
+		infinite: false,
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		arrows: true,
+		dots: false,
+		swipeToSlide: true,
+	});
+	$('.services-slider').slick({
+		infinite: false,
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		arrows: true,
+		dots: true,
+		swipeToSlide: true,
+	});
+	$('.products-detail-slider').slick({
+		infinite: false,
+		slidesToShow: 3,
+		slidesToScroll: 1,
+		arrows: true,
+		dots: true,
+		swipeToSlide: true,
+	});
 
 
 });
