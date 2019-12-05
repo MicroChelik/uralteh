@@ -35,8 +35,10 @@
 						Прежде всего, внедрение современных методик позволяет выполнить важные задания по разработке приоритизации разума над эмоциями. А ещё ключевые особенности структуры проекта могут быть обнародованы. Учитывая ключевые сценарии поведения, синтетическое тестирование предоставляет широкие возможности для своевременного выполнения сверхзадачи.
 					</p>
 					<div class="d-flex align-items-center">
-						<button class="redBtn mr-4">заказать услугу</button>
-						<a href="">
+						<a data-fancybox data-animation-duration="700" data-src="#orderServiceTrue" href="javascript:;" class="mr-4">
+							<button class="redBtn mr-4">заказать услугу</button>
+						</a>
+						<a data-fancybox data-animation-duration="700" data-src="#ask" href="javascript:;" class="mr-4">
 							<p class="blackBtn">задаcть вопрос</p>
 						</a>
 					</div>

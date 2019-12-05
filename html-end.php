@@ -34,7 +34,94 @@
 							<p>8 (800) 100-53-83 <br> <span>Регионы</span></p>
 						</div>
 						<div>
-							<button class="redBtn">Заказать звонок</button>
+							<a data-fancybox data-animation-duration="700" data-src="#orderCall" href="javascript:;">
+								<button class="redBtn">Заказать звонок</button>
+							</a>
+								<div style="display: none;" id="orderCall" class="animated-modal">
+									<div class="card">
+										<div class="card-header">
+											<h1>Заказать звонок</h1>
+										</div>
+										<div class="card-body">
+											<form>
+												<input type="text" placeholder="Имя *" required=''>
+												<input type="tel" placeholder="Номер телефона *" required="">
+												<div class="checkbox-div">
+													<input type="checkbox" required="" class="checkbox" name="" id="checkbox111">
+													<label for="checkbox111"></label>
+													<p>Я даю свое согласие на обработку <br> <a href="" target="_blank">персональных данных</a></p>
+												</div>
+												<button class="redBtn">Отправить</button>
+											</form>
+										</div>
+									</div>
+								</div>
+
+								<div style="display: none;" id="orderService" class="animated-modal">
+									<div class="card">
+										<div class="card-header">
+											<h1>Узнать цену</h1>
+										</div>
+										<div class="card-body">
+											<form>
+												<input type="text" placeholder="Имя *" required=''>
+												<input type="tel" placeholder="Номер телефона *" required="">
+												<input type="email" placeholder="Email *" required=''>
+												<input type="text" placeholder="Комментарий *" required="">
+												<div class="checkbox-div">
+													<input type="checkbox" required="" class="checkbox" name="" id="checkbox111">
+													<label for="checkbox111"></label>
+													<p>Я даю свое согласие на обработку <br> <a href="" target="_blank">персональных данных</a></p>
+												</div>
+												<button class="redBtn">Отправить</button>
+											</form>
+										</div>
+									</div>
+								</div>
+
+								<div style="display: none;" id="ask" class="animated-modal">
+									<div class="card">
+										<div class="card-header">
+											<h1>Задать вопрос</h1>
+										</div>
+										<div class="card-body">
+											<form>
+												<input type="text" placeholder="Имя *" required=''>
+												<input type="tel" placeholder="Номер телефона *" required="">
+												<input type="email" placeholder="Email *" required=''>
+												<input type="text" placeholder="Комментарий *" required="">
+												<div class="checkbox-div">
+													<input type="checkbox" required="" class="checkbox" name="" id="checkbox111">
+													<label for="checkbox111"></label>
+													<p>Я даю свое согласие на обработку <br> <a href="" target="_blank">персональных данных</a></p>
+												</div>
+												<button class="redBtn">Отправить</button>
+											</form>
+										</div>
+									</div>
+								</div>
+
+								<div style="display: none;" id="orderServiceTrue" class="animated-modal">
+									<div class="card">
+										<div class="card-header">
+											<h1>Заказать услугу</h1>
+										</div>
+										<div class="card-body">
+											<form>
+												<input type="text" placeholder="Имя *" required=''>
+												<input type="tel" placeholder="Номер телефона *" required="">
+												<input type="email" placeholder="Email *" required=''>
+												<input type="text" placeholder="Комментарий *" required="">
+												<div class="checkbox-div">
+													<input type="checkbox" required="" class="checkbox" name="" id="checkbox111">
+													<label for="checkbox111"></label>
+													<p>Я даю свое согласие на обработку <br> <a href="" target="_blank">персональных данных</a></p>
+												</div>
+												<button class="redBtn">Отправить</button>
+											</form>
+										</div>
+									</div>
+								</div>
 						</div>
 					</div>
 				</div>

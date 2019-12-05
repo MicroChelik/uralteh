@@ -3,7 +3,9 @@
 			<div class="row align-items-center">
 				<div class="col-lg-2 page-header__logo">
 					<div>
-						<img src="img/logo.png">
+						<a href="index.php">
+							<img src="img/logo.png">
+						</a>
 					</div>
 				</div>
 				<div class="col-lg-2 page-header__menu d-flex justify-content-center">
@@ -13,6 +15,27 @@
 	                     <span></span>
 	                </div>
 	                <p>МЕНЮ</p>
+	                <div class="menu">
+	                	<ul>
+	                		<li><a href="">Главная</a></li>
+	                		<li><a href="">Главная</a></li>
+	                		<li><a href="">Главная</a></li>
+	                		<li><a href="">Оченьдлиннаястраница очень</a></li>
+	                		<li><a href="">Главная</a></li>
+	                	</ul>
+	                	<ul>
+	                		<li><a href="">Главная</a></li>
+	                		<li><a href="">Главная</a></li>
+	                		<li><a href="">Оченьдлиннаястраница очень</a></li>
+	                		<li><a href="">Главная</a></li>
+	                		<li><a href="">Оченьдлиннаястраница очень</a></li>
+	                	</ul>
+	                	<ul>
+	                		<li><a href="">Главная</a></li>
+	                		<li><a href="">Главная</a></li>
+	                		<li><a href="">Оченьдлиннаястраница очень</a></li>
+	                	</ul>
+	                </div>
 				</div>
 				<div class="col-lg-6 offset-lg-1 page-header__col">
 					<div class="main-header__block2">
@@ -26,7 +49,9 @@
 							<p>8 (800) 100-53-83 <br> <span>Регионы</span></p>
 						</div>
 						<div>
-							<button class="redBtn">Заказать звонок</button>
+							<a data-fancybox data-animation-duration="700" data-src="#orderCall" href="javascript:;">
+								<button class="redBtn">Заказать звонок</button>
+							</a>
 						</div>
 						<div>
 							<form id="search">

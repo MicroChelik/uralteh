@@ -1,6 +1,20 @@
 $(document).ready(function(){
 
-	
+	$('.newses-sort-view .list').click(function(){
+	  $('.newses-list-slider__slide').addClass('list');
+	});
+	$('.newses-sort-view .grid').click(function(){
+	  $('.newses-list-slider__slide').removeClass('list');
+	});
+
+	$('.menuFive').click(function(){
+		if ($('.menu').hasClass('show')) {
+			$('.menu').removeClass('show');
+		}
+		else{
+			$('.menu').addClass('show');
+		}
+	})
 
 	$(function() {
 		$(window).scroll(function() {
@@ -27,6 +41,7 @@ $(document).ready(function(){
 		slidesToScroll: 1,
 		arrows: false,
 		dots: true,
+		dotsClass: "header-dots",
 		swipeToSlide: true,
 		vertical: true,
 		// responsive: [
@@ -53,6 +68,10 @@ $(document).ready(function(){
 		slidesToShow: 3,
 		slidesToScroll: 1,
 		arrows: false,
+		// prevArrow: '.prev1',
+		// nextArrow: '.next1',
+		dotsClass: "blue-dots",
+		arrowsClass: 'grey-arrows',
 		dots: true,
 		swipeToSlide: true,
 	});
@@ -61,6 +80,7 @@ $(document).ready(function(){
 		slidesToShow: 3,
 		slidesToScroll: 1,
 		arrows: false,
+		dotsClass: "blue-dots",
 		dots: true,
 		swipeToSlide: true,
 	});
@@ -69,6 +89,7 @@ $(document).ready(function(){
 		slidesToShow: 4,
 		slidesToScroll: 1,
 		arrows: false,
+		dotsClass: "blue-dots",
 		dots: true,
 		swipeToSlide: true,
 	});
@@ -77,6 +98,8 @@ $(document).ready(function(){
 		slidesToShow: 1,
 		slidesToScroll: 1,
 		arrows: true,
+		prevArrow: '.prev1',
+		nextArrow: '.next1',
 		dots: false,
 		swipeToSlide: true,
 	});
@@ -84,6 +107,8 @@ $(document).ready(function(){
 		infinite: false,
 		slidesToShow: 1,
 		slidesToScroll: 1,
+		prevArrow: '.prev2',
+		nextArrow: '.next2',
 		arrows: true,
 		dots: false,
 		swipeToSlide: true,
@@ -92,7 +117,8 @@ $(document).ready(function(){
 		infinite: false,
 		slidesToShow: 1,
 		slidesToScroll: 1,
-		arrows: true,
+		arrows: false,
+		dotsClass: "blue-dots",
 		dots: true,
 		swipeToSlide: true,
 	});
@@ -100,7 +126,35 @@ $(document).ready(function(){
 		infinite: false,
 		slidesToShow: 3,
 		slidesToScroll: 1,
-		arrows: true,
+		arrows: false,
+		dots: true,
+		dotsClass: "blue-dots",
+		swipeToSlide: true,
+	});
+	$('.products-slider').slick({
+		infinite: false,
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		arrows: false,
+		dots: true,
+		dotsClass: "blue-dots",
+		swipeToSlide: true,
+	});
+	$('.sertificates-slider').slick({
+		infinite: false,
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		arrows: false,
+		dotsClass: "blue-dots",
+		dots: true,
+		swipeToSlide: true,
+	});
+	$('.newses-list-slider').slick({
+		infinite: false,
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		arrows: false,
+		dotsClass: "blue-dots",
 		dots: true,
 		swipeToSlide: true,
 	});

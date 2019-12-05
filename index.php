@@ -20,7 +20,7 @@
 						<div class="typical-slider__text">
 							<h3>Название оборудования</h3>
 							<div class="typical-slider__links">
-								<a href="">Узнать цену</a>
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
 								<a href="">
 									<button class="redBtn">заказать товар</button>
 								</a>
@@ -34,7 +34,7 @@
 						<div class="typical-slider__text">
 							<h3>Название оборудования в две строки</h3>
 							<div class="typical-slider__links">
-								<a href="">Узнать цену</a>
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
 								<a href="">
 									<button class="redBtn">заказать товар</button>
 								</a>
@@ -48,7 +48,7 @@
 						<div class="typical-slider__text">
 							<h3>Название оборудования</h3>
 							<div class="typical-slider__links">
-								<a href="">Узнать цену</a>
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
 								<a href="">
 									<button class="redBtn">заказать товар</button>
 								</a>
@@ -62,7 +62,21 @@
 						<div class="typical-slider__text">
 							<h3>Название оборудования</h3>
 							<div class="typical-slider__links">
-								<a href="">Узнать цену</a>
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+								<a href="">
+									<button class="redBtn">заказать товар</button>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="typical-slider__slide">
+					<div class="typical-slider__image">
+						<img src="img/equipment1.png">
+						<div class="typical-slider__text">
+							<h3>Название оборудования</h3>
+							<div class="typical-slider__links">
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
 								<a href="">
 									<button class="redBtn">заказать товар</button>
 								</a>
@@ -71,6 +85,14 @@
 					</div>
 				</div>
 			</div>
+			<!-- <div class="row grey-arrows justify-content-between section-equipment__arrows d-lg-flex d-none">
+				<div class="col-auto">
+					<img src="img/icons/arrowLeft.svg" class="prev1" alt="назад">
+				</div>
+				<div class="col-auto">
+					<img src="img/icons/arrowRight.svg" class="next1" alt="вперед">
+				</div>
+			</div> -->
 		</div>
 	</section>
 	<section class="section-image-bentween-blocks">
@@ -150,7 +172,7 @@
 						<div class="typical-slider__text">
 							<h3>Название оборудования</h3>
 							<div class="typical-slider__links">
-								<a href="">Узнать цену</a>
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
 								<a href="">
 									<button class="redBtn">заказать товар</button>
 								</a>
@@ -164,7 +186,7 @@
 						<div class="typical-slider__text">
 							<h3>Название оборудования в две строки</h3>
 							<div class="typical-slider__links">
-								<a href="">Узнать цену</a>
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
 								<a href="">
 									<button class="redBtn">заказать товар</button>
 								</a>
@@ -178,7 +200,7 @@
 						<div class="typical-slider__text">
 							<h3>Название оборудования</h3>
 							<div class="typical-slider__links">
-								<a href="">Узнать цену</a>
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
 								<a href="">
 									<button class="redBtn">заказать товар</button>
 								</a>
@@ -192,7 +214,7 @@
 						<div class="typical-slider__text">
 							<h3>Название оборудования</h3>
 							<div class="typical-slider__links">
-								<a href="">Узнать цену</a>
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
 								<a href="">
 									<button class="redBtn">заказать товар</button>
 								</a>
@@ -239,7 +261,7 @@
 					<form class="section-form__form">
 						<h2>Написать нам</h2>
 						<input type="text" placeholder="Имя *" required="" name="">
-						<input type="tel" placeholder="Номер телефона *" required="" name="">
+						<input type="tel" placeholder="Номер телефона ***" required="" name="">
 						<input type="email" placeholder="Email *" required="" name="">
 						<input type="text" placeholder="Комментарий" required="" name="">
 						<div class="checkbox-div">
@@ -260,6 +282,14 @@
 					<div class="h2-block">
 						<h2>Новости</h2>
 						<a href="" class="h2-a">все новости <img src="img/icons/aArrow.svg" class="ml-2"></a>
+							<div class="row grey-arrows align-items-center justify-content-between section-equipment__arrows d-lg-flex d-none">
+								<div class="col-auto pr-0">
+									<img src="img/icons/arrowLeft.svg" class="prev1" alt="назад">
+								</div>
+								<div class="col-auto">
+									<img src="img/icons/arrowRight.svg" class="next1" alt="вперед">
+								</div>
+							</div>
 					</div>
 					<div class="newses-slider typical-mini-slider">
 						<div class="typical-mini-slider__slide">
@@ -328,6 +358,14 @@
 					<div class="h2-block">
 						<h2>Статьи</h2>
 						<a href="" class="h2-a">все статьи <img src="img/icons/aArrow.svg" class="ml-2"></a>
+							<div class="row grey-arrows align-items-center justify-content-between section-equipment__arrows d-lg-flex d-none">
+								<div class="col-auto pr-0">
+									<img src="img/icons/arrowLeft.svg" class="prev2" alt="назад">
+								</div>
+								<div class="col-auto">
+									<img src="img/icons/arrowRight.svg" class="next2" alt="вперед">
+								</div>
+							</div>
 					</div>
 					<div class="publication-slider typical-mini-slider">
 						<div class="typical-mini-slider__slide">
