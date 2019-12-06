@@ -35,177 +35,248 @@
 						по не названию
 					</p>
 				</div>
-				<div class="col-1 view">
-					<div>
-						<img src="img/icons/list.svg">
-					</div>
-					<div>
-						<img src="img/icons/grid.svg">
-					</div>
-				</div>
 			</div>
 
-			<div class="products-slider grid-slider">
-				<div class="products-slider__slide grid-slider__slide">
-					<div class="col-lg-4">
-						<div class="typical-slider__slide">
-							<div class="typical-slider__image">
-								<img src="img/equipment1.png">
-								<div class="typical-slider__text">
-									<h3>Название оборудования</h3>
-									<div class="typical-slider__links">
-										<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
-										<a href="">
-											<button class="redBtn">заказать товар</button>
-										</a>
+			<div class="slider-container-1 d-none d-lg-block">
+				<div class="products-slider grid-slider slider-1">
+					<div class="products-slider__slide grid-slider__slide">
+						<div class="col-lg-4">
+							<div class="typical-slider__slide">
+								<div class="typical-slider__image">
+									<img src="img/equipment1.png">
+									<div class="typical-slider__text">
+										<h3>Название оборудования</h3>
+										<div class="typical-slider__links">
+											<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+											<a href="">
+												<button class="redBtn">заказать товар</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="typical-slider__slide">
+								<div class="typical-slider__image">
+									<img src="img/equipment1.png">
+									<div class="typical-slider__text">
+										<h3>Название оборудования</h3>
+										<div class="typical-slider__links">
+											<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+											<a href="">
+												<button class="redBtn">заказать товар</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="typical-slider__slide">
+								<div class="typical-slider__image">
+									<img src="img/equipment1.png">
+									<div class="typical-slider__text">
+										<h3>Название оборудования</h3>
+										<div class="typical-slider__links">
+											<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+											<a href="">
+												<button class="redBtn">заказать товар</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="typical-slider__slide">
+								<div class="typical-slider__image">
+									<img src="img/equipment1.png">
+									<div class="typical-slider__text">
+										<h3>Название оборудования</h3>
+										<div class="typical-slider__links">
+											<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+											<a href="">
+												<button class="redBtn">заказать товар</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="typical-slider__slide">
+								<div class="typical-slider__image">
+									<img src="img/equipment1.png">
+									<div class="typical-slider__text">
+										<h3>Название оборудования</h3>
+										<div class="typical-slider__links">
+											<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+											<a href="">
+												<button class="redBtn">заказать товар</button>
+											</a>
+										</div>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
-						<div class="typical-slider__slide">
-							<div class="typical-slider__image">
-								<img src="img/equipment1.png">
-								<div class="typical-slider__text">
-									<h3>Название оборудования</h3>
-									<div class="typical-slider__links">
-										<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
-										<a href="">
-											<button class="redBtn">заказать товар</button>
-										</a>
+					<div class="products-slider__slide grid-slider__slide">
+						<div class="col-lg-4">
+							<div class="typical-slider__slide">
+								<div class="typical-slider__image">
+									<img src="img/equipment1.png">
+									<div class="typical-slider__text">
+										<h3>Название оборудования</h3>
+										<div class="typical-slider__links">
+											<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+											<a href="">
+												<button class="redBtn">заказать товар</button>
+											</a>
+										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-					</div>
-					<div class="col-lg-4">
-						<div class="typical-slider__slide">
-							<div class="typical-slider__image">
-								<img src="img/equipment1.png">
-								<div class="typical-slider__text">
-									<h3>Название оборудования</h3>
-									<div class="typical-slider__links">
-										<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
-										<a href="">
-											<button class="redBtn">заказать товар</button>
-										</a>
+						<div class="col-lg-4">
+							<div class="typical-slider__slide">
+								<div class="typical-slider__image">
+									<img src="img/equipment1.png">
+									<div class="typical-slider__text">
+										<h3>Название оборудования</h3>
+										<div class="typical-slider__links">
+											<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+											<a href="">
+												<button class="redBtn">заказать товар</button>
+											</a>
+										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-					</div>
-					<div class="col-lg-4">
-						<div class="typical-slider__slide">
-							<div class="typical-slider__image">
-								<img src="img/equipment1.png">
-								<div class="typical-slider__text">
-									<h3>Название оборудования</h3>
-									<div class="typical-slider__links">
-										<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
-										<a href="">
-											<button class="redBtn">заказать товар</button>
-										</a>
+						<div class="col-lg-4">
+							<div class="typical-slider__slide">
+								<div class="typical-slider__image">
+									<img src="img/equipment1.png">
+									<div class="typical-slider__text">
+										<h3>Название оборудования</h3>
+										<div class="typical-slider__links">
+											<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+											<a href="">
+												<button class="redBtn">заказать товар</button>
+											</a>
+										</div>
 									</div>
 								</div>
 							</div>
 						</div>
-					</div>
-					<div class="col-lg-4">
-						<div class="typical-slider__slide">
-							<div class="typical-slider__image">
-								<img src="img/equipment1.png">
-								<div class="typical-slider__text">
-									<h3>Название оборудования</h3>
-									<div class="typical-slider__links">
-										<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
-										<a href="">
-											<button class="redBtn">заказать товар</button>
-										</a>
+						<div class="col-lg-4">
+							<div class="typical-slider__slide">
+								<div class="typical-slider__image">
+									<img src="img/equipment1.png">
+									<div class="typical-slider__text">
+										<h3>Название оборудования</h3>
+										<div class="typical-slider__links">
+											<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+											<a href="">
+												<button class="redBtn">заказать товар</button>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="typical-slider__slide">
+								<div class="typical-slider__image">
+									<img src="img/equipment1.png">
+									<div class="typical-slider__text">
+										<h3>Название оборудования</h3>
+										<div class="typical-slider__links">
+											<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+											<a href="">
+												<button class="redBtn">заказать товар</button>
+											</a>
+										</div>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="products-slider__slide grid-slider__slide">
-					<div class="col-lg-4">
-						<div class="typical-slider__slide">
-							<div class="typical-slider__image">
-								<img src="img/equipment1.png">
-								<div class="typical-slider__text">
-									<h3>Название оборудования</h3>
-									<div class="typical-slider__links">
-										<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
-										<a href="">
-											<button class="redBtn">заказать товар</button>
-										</a>
-									</div>
-								</div>
+					<div class="controls">
+						<div class="controls-arrows"><div class="blue-dots"></div></div>
+					</div>
+
+			</div>
+
+			<div class="products-slider-mobile d-lg-none d-block typical-slider">
+				<div class="typical-slider__slide">
+					<div class="typical-slider__image">
+						<img src="img/equipment1.png">
+						<div class="typical-slider__text">
+							<h3>Название оборудования</h3>
+							<div class="typical-slider__links">
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+								<a href="">
+									<button class="redBtn">заказать товар</button>
+								</a>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
-						<div class="typical-slider__slide">
-							<div class="typical-slider__image">
-								<img src="img/equipment1.png">
-								<div class="typical-slider__text">
-									<h3>Название оборудования</h3>
-									<div class="typical-slider__links">
-										<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
-										<a href="">
-											<button class="redBtn">заказать товар</button>
-										</a>
-									</div>
-								</div>
+				</div>
+				<div class="typical-slider__slide">
+					<div class="typical-slider__image">
+						<img src="img/equipment1.png">
+						<div class="typical-slider__text">
+							<h3>Название оборудования в две строки</h3>
+							<div class="typical-slider__links">
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+								<a href="">
+									<button class="redBtn">заказать товар</button>
+								</a>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
-						<div class="typical-slider__slide">
-							<div class="typical-slider__image">
-								<img src="img/equipment1.png">
-								<div class="typical-slider__text">
-									<h3>Название оборудования</h3>
-									<div class="typical-slider__links">
-										<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
-										<a href="">
-											<button class="redBtn">заказать товар</button>
-										</a>
-									</div>
-								</div>
+				</div>
+				<div class="typical-slider__slide">
+					<div class="typical-slider__image">
+						<img src="img/equipment1.png">
+						<div class="typical-slider__text">
+							<h3>Название оборудования</h3>
+							<div class="typical-slider__links">
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+								<a href="">
+									<button class="redBtn">заказать товар</button>
+								</a>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
-						<div class="typical-slider__slide">
-							<div class="typical-slider__image">
-								<img src="img/equipment1.png">
-								<div class="typical-slider__text">
-									<h3>Название оборудования</h3>
-									<div class="typical-slider__links">
-										<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
-										<a href="">
-											<button class="redBtn">заказать товар</button>
-										</a>
-									</div>
-								</div>
+				</div>
+				<div class="typical-slider__slide">
+					<div class="typical-slider__image">
+						<img src="img/equipment1.png">
+						<div class="typical-slider__text">
+							<h3>Название оборудования</h3>
+							<div class="typical-slider__links">
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+								<a href="">
+									<button class="redBtn">заказать товар</button>
+								</a>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4">
-						<div class="typical-slider__slide">
-							<div class="typical-slider__image">
-								<img src="img/equipment1.png">
-								<div class="typical-slider__text">
-									<h3>Название оборудования</h3>
-									<div class="typical-slider__links">
-										<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
-										<a href="">
-											<button class="redBtn">заказать товар</button>
-										</a>
-									</div>
-								</div>
+				</div>
+				<div class="typical-slider__slide">
+					<div class="typical-slider__image">
+						<img src="img/equipment1.png">
+						<div class="typical-slider__text">
+							<h3>Название оборудования</h3>
+							<div class="typical-slider__links">
+								<a data-fancybox data-animation-duration="700" data-src="#orderService" href="javascript:;">Узнать цену</a>
+								<a href="">
+									<button class="redBtn">заказать товар</button>
+								</a>
 							</div>
 						</div>
 					</div>
@@ -228,7 +299,7 @@
 	<section class="first-section">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-lg-6 pl-0 imgW100">
+				<div class="col-lg-6 pl-0 big-img-block imgW100">
 					<img src="img/catalog.png">
 				</div>
 				<div class="col-lg-5 d-flex align-items-center">

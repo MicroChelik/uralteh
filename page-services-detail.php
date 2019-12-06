@@ -18,7 +18,7 @@
 	<section class="first-section">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-lg-6 pl-0 imgW100">
+				<div class="col-lg-6 pl-0 big-img-block imgW100">
 					<img src="img/service1.png">
 				</div>
 				<div class="col-lg-5">
@@ -34,11 +34,11 @@
 					<p>
 						Прежде всего, внедрение современных методик позволяет выполнить важные задания по разработке приоритизации разума над эмоциями. А ещё ключевые особенности структуры проекта могут быть обнародованы. Учитывая ключевые сценарии поведения, синтетическое тестирование предоставляет широкие возможности для своевременного выполнения сверхзадачи.
 					</p>
-					<div class="d-flex align-items-center">
-						<a data-fancybox data-animation-duration="700" data-src="#orderServiceTrue" href="javascript:;" class="mr-4">
-							<button class="redBtn mr-4">заказать услугу</button>
+					<div class="d-lg-flex text-center align-items-center">
+						<a data-fancybox data-animation-duration="700" data-src="#orderServiceTrue" href="javascript:;" class="mr-lg-4">
+							<button class="redBtn mr-lg-4 mb-3 mb-lg-0">заказать услугу</button>
 						</a>
-						<a data-fancybox data-animation-duration="700" data-src="#ask" href="javascript:;" class="mr-4">
+						<a data-fancybox data-animation-duration="700" data-src="#ask" href="javascript:;" class="mr-lg-4">
 							<p class="blackBtn">задаcть вопрос</p>
 						</a>
 					</div>

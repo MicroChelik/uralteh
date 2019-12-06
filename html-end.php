@@ -1,8 +1,8 @@
 	<footer>
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-2 d-flex">
-					<div class="additional-header_social mr-2">
+				<div class="col-lg-2 d-lg-flex d-none">
+					<div class="additional-header_social mr-lg-2">
 						<a href="">
 							<img src="img/icons/skype2.svg">
 						</a>
@@ -17,7 +17,7 @@
 						</a>
 					</div>
 					<div>
-						<a href="">
+						<a class="placemark" data-fancybox data-animation-duration="700" data-src="#showMap" href="javascript:;">
 							<img src="img/icons/placemark.svg">
 						</a>
 					</div>
@@ -25,13 +25,13 @@
 				<div class="col-lg-7 offset-lg-3">
 					<div class="main-header__block2">
 						<div>
-							<p>manager@uralteh.ru</p>
+							<p><a href="mailto:manager@uralteh.ru">manager@uralteh.ru</a></p>
 						</div>
 						<div>
-							<p>(3412) 600-999 <br> <span>Ижевск</span></p>
+							<p><a href="tel:(3412) 600-999">(3412) 600-999</a> <br> <span>Ижевск</span></p>
 						</div>
 						<div>
-							<p>8 (800) 100-53-83 <br> <span>Регионы</span></p>
+							<p><a href="tel:8 (800) 100-53-83">8 (800) 100-53-83</a> <br> <span>Регионы</span></p>
 						</div>
 						<div>
 							<a data-fancybox data-animation-duration="700" data-src="#orderCall" href="javascript:;">
@@ -122,7 +122,38 @@
 										</div>
 									</div>
 								</div>
+
+								<div style="display: none;" id="showMap" class="animated-modal">
+									<div class="card showMapCard">
+										<div class="card-header">
+											<h1>Карта</h1>
+										</div>
+										<div class="card-body map2">
+											<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Aea1c0e37423efb97d41d5a63dfb1f47e0d35bf889bd4917c45b9a54eb18cb3e2&amp;width=100%25&amp;height=100%&amp;lang=ru_RU&amp;scroll=true"></script>
+										</div>
+									</div>
+								</div>
 						</div>
+					</div>
+				</div>
+
+				<div class="col-lg-2 d-flex d-lg-none">
+					<div class="additional-header_social">
+						<a href="">
+							<img src="img/icons/skype2.svg">
+						</a>
+						<a href="">
+							<img src="img/icons/whatsapp2.svg">
+						</a>
+						<a href="">
+							<img src="img/icons/viber2.svg">
+						</a>
+						<a href="">
+							<img src="img/icons/inst2.svg">
+						</a>
+						<a class="placemark" data-fancybox data-animation-duration="700" data-src="#showMap" href="javascript:;">
+							<img src="img/icons/placemark.svg">
+						</a>
 					</div>
 				</div>
 				

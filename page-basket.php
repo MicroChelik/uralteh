@@ -18,7 +18,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<div class="h2-block">
+					<div class="h2-block mt-3 mt-lg-0">
 						<h2>Конструктор</h2>
 					</div>
 				</div>
@@ -83,7 +83,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-auto basket-product__delete">
+				<div class="col-lg-auto basket-product__delete order-first order-lg-last">
 					<div>
 						<img src="img/icons/close.svg">
 					</div>
@@ -149,7 +149,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-auto basket-product__delete">
+				<div class="col-lg-auto basket-product__delete order-first order-lg-last">
 					<div>
 						<img src="img/icons/close.svg">
 					</div>

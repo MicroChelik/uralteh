@@ -17,7 +17,7 @@
 	<section>
 		<div class="container">
 			<div class="row">
-				<div class="col-12">
+				<div class="col-12 mt-3 mt-lg-0">
 					<h2 class="mb-5">контакты</h2>
 				</div>
 			</div>
@@ -28,11 +28,11 @@
 				</div>
 				<div class="col-lg-3">
 					<p class="title">Телефон:</p>
-					<p>(3412) 600-999 <br>8 (800) 100-53-83</p>
+					<p><a href="tel:(3412) 600-999">(3412) 600-999</a> <br><a href="tel:8 (800) 100-53-83">8 (800) 100-53-83</a></p>
 				</div>
 				<div class="col-lg-3">
 					<p class="title">Email:</p>
-					<p>manager@uralteh.ru</p>
+					<p><a href="mailto:manager@uralteh.ru">manager@uralteh.ru</a></p>
 				</div>
 				<div class="col-lg-3">
 					<div class="additional-header_social">
@@ -58,7 +58,7 @@
 	<section class="section-form">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-lg-6 px-0">
+				<div class="col-lg-6 map px-0">
 					<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Aea1c0e37423efb97d41d5a63dfb1f47e0d35bf889bd4917c45b9a54eb18cb3e2&amp;width=100%25&amp;height=100%&amp;lang=ru_RU&amp;scroll=true"></script>
 				</div>
 				<div class="col-lg-6 section-form__background">

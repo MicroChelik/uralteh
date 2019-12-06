@@ -18,7 +18,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<div class="h2-block">
+					<div class="h2-block mt-3 mt-lg-0">
 						<h2>Статьи</h2>
 					</div>
 				</div>
@@ -36,129 +36,167 @@
 					</p>
 				</div>
 				<div class="col-1 view">
-					<div>
-						<img src="img/icons/list.svg" class="list">
+					<div class="view-list">
+						<img src="img/icons/list.svg" class="list disable show">
+						<img src="img/icons/listBlue.png" class="list active">
 					</div>
-					<div>
-						<img src="img/icons/grid.svg" class="grid">
+					<div class="view-grid">
+						<img src="img/icons/grid.svg" class="grid active show">
+						<img src="img/icons/gridGrey.png" class="grid disable">
 					</div>
 				</div>
 			</div>
-			<div class="newses-list-slider">
-				<div class="newses-list-slider__slide">
-					<div class="typical-mini-slider__block">
-						<div class="typical-mini-slider__image">
-							<img src="img/news1.png">
+			<div class="slider-container-1 d-none d-lg-block">
+				<div class="publication-list-slider slider-1">
+					<div class="newses-list-slider__slide">
+						<div class="typical-mini-slider__block">
+							<div class="typical-mini-slider__image">
+								<img src="img/news1.png">
+							</div>
+							<div class="typical-mini-slider__text">
+								<p class="title">
+									Название статьи <br> в две строчки
+								</p>
+								<p>
+									Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
+								</p>
+								<a href="">Подробнее</a>
+							</div>
 						</div>
-						<div class="typical-mini-slider__text">
-							<p class="title">
-								Название статьи <br> в две строчки
-							</p>
-							<p>
-								Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
-							</p>
-							<a href="">Подробнее</a>
+						<div class="typical-mini-slider__block">
+							<div class="typical-mini-slider__image">
+								<img src="img/news1.png">
+							</div>
+							<div class="typical-mini-slider__text">
+								<p class="title">
+									Название статьи <br> в две строчки
+								</p>
+								<p>
+									Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
+								</p>
+								<a href="">Подробнее</a>
+							</div>
+						</div>
+						<div class="typical-mini-slider__block">
+							<div class="typical-mini-slider__image">
+								<img src="img/news1.png">
+							</div>
+							<div class="typical-mini-slider__text">
+								<p class="title">
+									Название статьи <br> в две строчки
+								</p>
+								<p>
+									Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
+								</p>
+								<a href="">Подробнее</a>
+							</div>
+						</div>
+						<div class="typical-mini-slider__block">
+							<div class="typical-mini-slider__image">
+								<img src="img/news1.png">
+							</div>
+							<div class="typical-mini-slider__text">
+								<p class="title">
+									Название статьи <br> в две строчки
+								</p>
+								<p>
+									Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
+								</p>
+								<a href="">Подробнее</a>
+							</div>
 						</div>
 					</div>
-					<div class="typical-mini-slider__block">
-						<div class="typical-mini-slider__image">
-							<img src="img/news1.png">
+					<div class="newses-list-slider__slide">
+						<div class="typical-mini-slider__block">
+							<div class="typical-mini-slider__image">
+								<img src="img/news1.png">
+							</div>
+							<div class="typical-mini-slider__text">
+								<p class="title">
+									Название статьи <br> в две строчки
+								</p>
+								<p>
+									Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
+								</p>
+								<a href="">Подробнее</a>
+							</div>
 						</div>
-						<div class="typical-mini-slider__text">
-							<p class="title">
-								Название статьи <br> в две строчки
-							</p>
-							<p>
-								Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
-							</p>
-							<a href="">Подробнее</a>
+						<div class="typical-mini-slider__block">
+							<div class="typical-mini-slider__image">
+								<img src="img/news1.png">
+							</div>
+							<div class="typical-mini-slider__text">
+								<p class="title">
+									Название статьи <br> в две строчки
+								</p>
+								<p>
+									Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
+								</p>
+								<a href="">Подробнее</a>
+							</div>
 						</div>
-					</div>
-					<div class="typical-mini-slider__block">
-						<div class="typical-mini-slider__image">
-							<img src="img/news1.png">
+						<div class="typical-mini-slider__block">
+							<div class="typical-mini-slider__image">
+								<img src="img/news1.png">
+							</div>
+							<div class="typical-mini-slider__text">
+								<p class="title">
+									Название статьи <br> в две строчки
+								</p>
+								<p>
+									Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
+								</p>
+								<a href="">Подробнее</a>
+							</div>
 						</div>
-						<div class="typical-mini-slider__text">
-							<p class="title">
-								Название статьи <br> в две строчки
-							</p>
-							<p>
-								Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
-							</p>
-							<a href="">Подробнее</a>
-						</div>
-					</div>
-					<div class="typical-mini-slider__block">
-						<div class="typical-mini-slider__image">
-							<img src="img/news1.png">
-						</div>
-						<div class="typical-mini-slider__text">
-							<p class="title">
-								Название статьи <br> в две строчки
-							</p>
-							<p>
-								Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
-							</p>
-							<a href="">Подробнее</a>
+						<div class="typical-mini-slider__block">
+							<div class="typical-mini-slider__image">
+								<img src="img/news1.png">
+							</div>
+							<div class="typical-mini-slider__text">
+								<p class="title">
+									Название статьи <br> в две строчки
+								</p>
+								<p>
+									Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
+								</p>
+								<a href="">Подробнее</a>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="newses-list-slider__slide">
-					<div class="typical-mini-slider__block">
-						<div class="typical-mini-slider__image">
-							<img src="img/news1.png">
-						</div>
-						<div class="typical-mini-slider__text">
-							<p class="title">
-								Название статьи <br> в две строчки
-							</p>
-							<p>
-								Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
-							</p>
-							<a href="">Подробнее</a>
-						</div>
+				<div class="controls">
+						<div class="controls-arrows"><div class="blue-dots"></div></div>
 					</div>
-					<div class="typical-mini-slider__block">
-						<div class="typical-mini-slider__image">
-							<img src="img/news1.png">
-						</div>
-						<div class="typical-mini-slider__text">
-							<p class="title">
-								Название статьи <br> в две строчки
-							</p>
-							<p>
-								Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
-							</p>
-							<a href="">Подробнее</a>
-						</div>
+			</div>
+
+			<div class="publication-slider-mobile d-lg-none d-block typical-slider">
+				<div class="typical-mini-slider__block">
+					<div class="typical-mini-slider__image">
+						<img src="img/news1.png">
 					</div>
-					<div class="typical-mini-slider__block">
-						<div class="typical-mini-slider__image">
-							<img src="img/news1.png">
-						</div>
-						<div class="typical-mini-slider__text">
-							<p class="title">
-								Название статьи <br> в две строчки
-							</p>
-							<p>
-								Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
-							</p>
-							<a href="">Подробнее</a>
-						</div>
+					<div class="typical-mini-slider__text">
+						<p class="title">
+							Название статьи <br> в две строчки
+						</p>
+						<p>
+							Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
+						</p>
+						<a href="">Подробнее</a>
 					</div>
-					<div class="typical-mini-slider__block">
-						<div class="typical-mini-slider__image">
-							<img src="img/news1.png">
-						</div>
-						<div class="typical-mini-slider__text">
-							<p class="title">
-								Название статьи <br> в две строчки
-							</p>
-							<p>
-								Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
-							</p>
-							<a href="">Подробнее</a>
-						</div>
+				</div>
+				<div class="typical-mini-slider__block">
+					<div class="typical-mini-slider__image">
+						<img src="img/news1.png">
+					</div>
+					<div class="typical-mini-slider__text">
+						<p class="title">
+							Название статьи <br> в две строчки
+						</p>
+						<p>
+							Не следует, однако забывать, что дальнейшее развитие различных форм деятельности... 
+						</p>
+						<a href="">Подробнее</a>
 					</div>
 				</div>
 			</div>

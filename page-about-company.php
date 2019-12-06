@@ -48,7 +48,7 @@
 	</section>
 	<section class="special-section">
 		<div class="container">
-			<div class="row">
+			<div class="row advantages-slider">
 				<div class="col-lg-4">
 					<div class="special-info">
 						<p class="special-info__count"><img src="img/icons/pen.svg"></p>
@@ -83,22 +83,27 @@
 					<h2>Наши партнеры</h2>
 				</div>
 			</div>
-			<div class="partners-slider">
-				<div class="partners-slider__slide">
-					<img src="img/partner1.png">
+			<div class="slider-container-4">
+				<div class="partners-slider slider-4">
+					<div class="partners-slider__slide">
+						<img src="img/partner1.png">
+					</div>
+					<div class="partners-slider__slide">
+						<img src="img/partner2.png">
+					</div>
+					<div class="partners-slider__slide">
+						<img src="img/partner1.png">
+					</div>
+					<div class="partners-slider__slide">
+						<img src="img/partner1.png">
+					</div>
+					<div class="partners-slider__slide">
+						<img src="img/partner1.png">
+					</div>
 				</div>
-				<div class="partners-slider__slide">
-					<img src="img/partner2.png">
-				</div>
-				<div class="partners-slider__slide">
-					<img src="img/partner1.png">
-				</div>
-				<div class="partners-slider__slide">
-					<img src="img/partner1.png">
-				</div>
-				<div class="partners-slider__slide">
-					<img src="img/partner1.png">
-				</div>
+					<div class="controls">
+						<div class="controls-arrows"><div class="blue-dots"></div></div>
+					</div>
 			</div>
 		</div>
 	</section>
@@ -130,17 +135,33 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8">
-					<div class="h2-block align-items-center d-flex company-history">
+					<div class="h2-block align-items-center d-lg-flex company-history">
 						<h2>История компании</h2>
-						<p class="company-history__date active">1999-2005</p>
-						<p class="company-history__date">2006-2010</p>
-						<p class="company-history__date">2011-2019</p>
+						<p class="company-history__date active" data="1">1999-2005</p>
+						<p class="company-history__date" data="2">2006-2010</p>
+						<p class="company-history__date" data="3">2011-2019</p>
 					</div>
 				</div>
-				<div class="col-12">
-					<div>
+				<div class="col-12 blocks">
+					<div class="block block1 show">
 						<p>
 							Противоположная точка зрения подразумевает, что представители современных социальных резервов формируют глобальную экономическую сеть и при этом - заблокированы в рамках своих собственных рациональных ограничений. Прежде всего, внедрение современных методик позволяет выполнить важные задания по разработке приоритизации разума над эмоциями. А ещё ключевые особенности структуры проекта могут быть обнародованы. Учитывая ключевые сценарии поведения, синтетическое тестирование предоставляет широкие возможности для своевременного выполнения сверхзадачи.
+						</p>
+						<p>
+							Прежде всего, высокое качество позиционных исследований не оставляет шанса для вывода текущих активов. Новая модель организационной деятельности представляет собой интересный эксперимент проверки прогресса профессионального сообщества.
+						</p>
+					</div>
+					<div class="block block2">
+						<p>
+							2Противоположная точка зрения подразумевает, что представители современных социальных резервов формируют глобальную экономическую сеть и при этом - заблокированы в рамках своих собственных рациональных ограничений. Прежде всего, внедрение современных методик позволяет выполнить важные задания по разработке приоритизации разума над эмоциями. А ещё ключевые особенности структуры проекта могут быть обнародованы. Учитывая ключевые сценарии поведения, синтетическое тестирование предоставляет широкие возможности для своевременного выполнения сверхзадачи.
+						</p>
+						<p>
+							Прежде всего, высокое качество позиционных исследований не оставляет шанса для вывода текущих активов. Новая модель организационной деятельности представляет собой интересный эксперимент проверки прогресса профессионального сообщества.
+						</p>
+					</div>
+					<div class="block block3">
+						<p>
+							3Противоположная точка зрения подразумевает, что представители современных социальных резервов формируют глобальную экономическую сеть и при этом - заблокированы в рамках своих собственных рациональных ограничений. Прежде всего, внедрение современных методик позволяет выполнить важные задания по разработке приоритизации разума над эмоциями. А ещё ключевые особенности структуры проекта могут быть обнародованы. Учитывая ключевые сценарии поведения, синтетическое тестирование предоставляет широкие возможности для своевременного выполнения сверхзадачи.
 						</p>
 						<p>
 							Прежде всего, высокое качество позиционных исследований не оставляет шанса для вывода текущих активов. Новая модель организационной деятельности представляет собой интересный эксперимент проверки прогресса профессионального сообщества.

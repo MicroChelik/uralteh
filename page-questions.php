@@ -19,10 +19,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<div class="h2-block d-flex justify-content-between">
+					<div class="h2-block mt-3 mt-lg-0 d-lg-flex justify-content-between">
 						<h2>Гарантия</h2>
 						<a data-fancybox data-animation-duration="700" data-src="#ask" href="javascript:;">
-							<button class="redBtn">Задать вопрос</button>
+							<button class="redBtn mt-3 mt-lg-0">Задать вопрос</button>
 						</a>
 					</div>
 				</div>
