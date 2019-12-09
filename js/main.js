@@ -78,6 +78,8 @@ $(document).ready(function(){
 		dots: true,
 		dotsClass: "header-dots",
 		swipeToSlide: true,
+		autoplay: true,
+		autoplaySpeed: 5000,
 		vertical: true,
 		responsive: [
 			{
@@ -98,6 +100,8 @@ $(document).ready(function(){
 			dots: true,
 			arrows: true,
 			infinite: false,
+			autoplay: true,
+			autoplaySpeed: 5000,
 			slidesToShow: 3,
 			slidesToScroll: 1,
 			appendArrows: $blockArrows,
@@ -127,6 +131,8 @@ $(document).ready(function(){
 			infinite: false,
 			slidesToShow: 4,
 			slidesToScroll: 1,
+			autoplay: true,
+			autoplaySpeed: 5000,
 			appendArrows: $blockArrows,
 			appendDots: $blockDots,
 			responsive: [
@@ -136,8 +142,6 @@ $(document).ready(function(){
 						slidesToShow: 1,
 						arrows: false,
 						slidesToScroll: 1,
-						autoplay: true,
-	  					autoplaySpeed: 5000,
 					}
 				}
 			]
@@ -153,6 +157,8 @@ $(document).ready(function(){
 			arrows: true,
 			infinite: false,
 			slidesToShow: 1,
+			autoplay: true,
+			autoplaySpeed: 5000,
 			slidesToScroll: 1,
 			appendArrows: $blockArrows,
 			appendDots: $blockDots,
@@ -160,71 +166,7 @@ $(document).ready(function(){
 		});
 	});
 
-	// $('.section-equipment__slider').slick({
-	// 	infinite: false,
-	// 	slidesToShow: 3,
-	// 	slidesToScroll: 1,
-	// 	arrows: true,
-	// 	// prevArrow: '.prev1',
-	// 	// nextArrow: '.next1',
-	// 	dotsClass: "blue-dots",
-	// 	prevArrow: '<button class="slick-prev" aria-label="Previous" type="button">Previous</button>',
- //                nextArrow: '<button class="slick-next" aria-label="Next" type="button">Next</button>',
-	// 	arrowsClass: 'grey-arrows',
-	// 	dots: true,
-	// 	swipeToSlide: true,
-	// 	responsive: [
-	// 		{
-	// 			breakpoint: 960,
-	// 			settings: {
-	// 				slidesToShow: 1,
-	// 				slidesToScroll: 1,
-	// 				autoplay: true,
- //  					autoplaySpeed: 5000,
-	// 			}
-	// 		}
-	// 	]
-	// });
-	// $('.section-solutions__slider').slick({
-	// 	infinite: false,
-	// 	slidesToShow: 3,
-	// 	slidesToScroll: 1,
-	// 	arrows: false,
-	// 	dotsClass: "blue-dots",
-	// 	dots: true,
-	// 	swipeToSlide: true,
-	// 	responsive: [
-	// 		{
-	// 			breakpoint: 960,
-	// 			settings: {
-	// 				slidesToShow: 1,
-	// 				slidesToScroll: 1,
-	// 				autoplay: true,
- //  					autoplaySpeed: 5000,
-	// 			}
-	// 		}
-	// 	]
-	// });
-	// $('.partners-slider').slick({
-	// 	infinite: false,
-	// 	slidesToShow: 4,
-	// 	slidesToScroll: 1,
-	// 	arrows: false,
-	// 	dotsClass: "blue-dots",
-	// 	dots: true,
-	// 	swipeToSlide: true,
-	// 	responsive: [
-	// 		{
-	// 			breakpoint: 960,
-	// 			settings: {
-	// 				slidesToShow: 1,
-	// 				slidesToScroll: 1,
-	// 				autoplay: true,
- //  					autoplaySpeed: 5000,
-	// 			}
-	// 		}
-	// 	]
-	// });
+
 	$('.newses-slider').slick({
 		infinite: false,
 		slidesToShow: 1,
@@ -232,6 +174,8 @@ $(document).ready(function(){
 		arrows: true,
 		prevArrow: '.prev1',
 		nextArrow: '.next1',
+		autoplay: true,
+		autoplaySpeed: 5000,
 		dots: false,
 		swipeToSlide: true,
 		responsive: [
@@ -252,6 +196,8 @@ $(document).ready(function(){
 		nextArrow: '.next2',
 		arrows: true,
 		dots: false,
+		autoplay: true,
+		autoplaySpeed: 5000,
 		swipeToSlide: true,
 		responsive: [
 			{
@@ -263,71 +209,7 @@ $(document).ready(function(){
 			}
 		]
 	});
-	// $('.services-slider').slick({
-	// 	infinite: false,
-	// 	slidesToShow: 1,
-	// 	slidesToScroll: 1,
-	// 	arrows: false,
-	// 	dotsClass: "blue-dots",
-	// 	dots: true,
-	// 	swipeToSlide: true,
-	// });
-	// $('.products-detail-slider').slick({
-	// 	infinite: false,
-	// 	slidesToShow: 3,
-	// 	slidesToScroll: 1,
-	// 	arrows: false,
-	// 	dots: true,
-	// 	dotsClass: "blue-dots",
-	// 	swipeToSlide: true,
-	// 	responsive: [
-	// 		{
-	// 			breakpoint: 960,
-	// 			settings: {
-	// 				slidesToShow: 1,
-	// 				slidesToScroll: 1,
-	// 				autoplay: true,
- //  					autoplaySpeed: 5000,
-	// 			}
-	// 		}
-	// 	]
-	// });
-	// $('.products-slider').slick({
-	// 	infinite: false,
-	// 	slidesToShow: 1,
-	// 	slidesToScroll: 1,
-	// 	arrows: false,
-	// 	dots: true,
-	// 	dotsClass: "blue-dots",
-	// 	swipeToSlide: true,
-	// });
-	// $('.sertificates-slider').slick({
-	// 	infinite: false,
-	// 	slidesToShow: 1,
-	// 	slidesToScroll: 1,
-	// 	arrows: false,
-	// 	dotsClass: "blue-dots",
-	// 	dots: true,
-	// 	swipeToSlide: true,
-	// });
-	// $('.newses-list-slider').slick({
-	// 	infinite: false,
-	// 	slidesToShow: 1,
-	// 	slidesToScroll: 1,
-	// 	arrows: false,
-	// 	dotsClass: "blue-dots",
-	// 	dots: true,
-	// 	swipeToSlide: true,
-	// });
-	// $('.publication-list-slider').slick({
-	// 	infinite: false,
-	// 	slidesToShow: 1,
-	// 	slidesToScroll: 1,
-	// 	arrows: false,
-	// 	dotsClass: "blue-dots",
-	// 	dots: true,
-	// 	swipeToSlide: true,
-	// });
+
 	$('.advantages-slider').slick({
 		infinite: false,
 		slidesToShow: 1,
@@ -347,6 +229,8 @@ $(document).ready(function(){
 					slidesToShow: 1,
 					slidesToScroll: 1,
 					autoplay: true,
+					autoplaySpeed: 5000,
+					autoplay: true,
   					autoplaySpeed: 5000,
 				}
 			}
@@ -356,6 +240,8 @@ $(document).ready(function(){
 		infinite: false,
 		slidesToShow: 1,
 		slidesToScroll: 1,
+		autoplay: true,
+		autoplaySpeed: 5000,
 		arrows: false,
 		dotsClass: "blue-dots",
 		dots: true,
@@ -365,6 +251,8 @@ $(document).ready(function(){
 		infinite: false,
 		slidesToShow: 1,
 		slidesToScroll: 1,
+		autoplay: true,
+		autoplaySpeed: 5000,
 		arrows: false,
 		dotsClass: "blue-dots",
 		dots: true,
@@ -374,6 +262,8 @@ $(document).ready(function(){
 		infinite: false,
 		slidesToShow: 1,
 		slidesToScroll: 1,
+		autoplay: true,
+		autoplaySpeed: 5000,
 		arrows: false,
 		dotsClass: "blue-dots",
 		dots: true,
@@ -383,6 +273,8 @@ $(document).ready(function(){
 		infinite: false,
 		slidesToShow: 1,
 		slidesToScroll: 1,
+		autoplay: true,
+		autoplaySpeed: 5000,
 		arrows: false,
 		dotsClass: "blue-dots",
 		dots: true,
@@ -392,6 +284,8 @@ $(document).ready(function(){
 		infinite: false,
 		slidesToShow: 1,
 		slidesToScroll: 1,
+		autoplay: true,
+		autoplaySpeed: 5000,
 		arrows: false,
 		dotsClass: "blue-dots",
 		dots: true,
