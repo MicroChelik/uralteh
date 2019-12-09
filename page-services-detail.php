@@ -19,7 +19,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-lg-6 pl-0 big-img-block imgW100">
-					<img src="img/service1.png">
+					<img src="img/service1.png" alt="Фотография услуги">
 				</div>
 				<div class="col-lg-5">
 					<div class="h2-block">

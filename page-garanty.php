@@ -10,7 +10,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 section-image-bentween-blocks__image">
-						<img src="img/company.png">
+						<img src="img/company.png" alt="Фотография">
 					</div>
 
 					<div aria-label="breadcrumb" class="breadcrumbNav">
@@ -70,12 +70,12 @@
 				<div class="col-lg-6 section-form__background">
 					<form class="section-form__form">
 						<h2>Задать вопрос</h2>
-						<input type="text" placeholder="Имя *" required="" name="">
-						<input type="tel" placeholder="Номер телефона *" required="" name="">
-						<input type="email" placeholder="Email *" required="" name="">
-						<input type="text" placeholder="Комментарий" required="" name="">
+						<input type="text" placeholder="Имя *" required="">
+						<input type="tel" placeholder="Номер телефона *" required="">
+						<input type="email" placeholder="Email *" required="">
+						<input type="text" placeholder="Комментарий" required="">
 						<div class="checkbox-div">
-							<input type="checkbox" required="" class="checkbox" name="" id="checkbox">
+							<input type="checkbox" required="" class="checkbox" id="checkbox">
 							<label for="checkbox"></label>
 							<p>Я даю свое согласие на обработку <br> <a href="" target="_blank">персональных данных</a></p>
 						</div>

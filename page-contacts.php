@@ -37,16 +37,16 @@
 				<div class="col-lg-3">
 					<div class="additional-header_social">
 						<a href="">
-							<img src="img/icons/skype.svg">
+							<img src="img/icons/skype.svg" alt="skype">
 						</a>
 						<a href="">
-							<img src="img/icons/whatsapp.svg">
+							<img src="img/icons/whatsapp.svg" alt="whatsapp">
 						</a>
 						<a href="">
-							<img src="img/icons/viber.svg">
+							<img src="img/icons/viber.svg" alt="viber">
 						</a>
 						<a href="">
-							<img src="img/icons/inst.svg">
+							<img src="img/icons/inst.svg" alt="instagram">
 						</a>
 					</div>
 				</div>
@@ -59,17 +59,17 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-lg-6 map px-0">
-					<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Aea1c0e37423efb97d41d5a63dfb1f47e0d35bf889bd4917c45b9a54eb18cb3e2&amp;width=100%25&amp;height=100%&amp;lang=ru_RU&amp;scroll=true"></script>
+					<script charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Aea1c0e37423efb97d41d5a63dfb1f47e0d35bf889bd4917c45b9a54eb18cb3e2&amp;width=100%25&amp;height=100%&amp;lang=ru_RU&amp;scroll=true"></script>
 				</div>
 				<div class="col-lg-6 section-form__background">
 					<form class="section-form__form">
 						<h2>Написать нам</h2>
-						<input type="text" placeholder="Имя *" required="" name="">
-						<input type="tel" placeholder="Номер телефона *" required="" name="">
-						<input type="email" placeholder="Email *" required="" name="">
-						<input type="text" placeholder="Комментарий" required="" name="">
+						<input type="text" placeholder="Имя *" required="">
+						<input type="tel" placeholder="Номер телефона *" required="">
+						<input type="email" placeholder="Email *" required="">
+						<input type="text" placeholder="Комментарий" required="">
 						<div class="checkbox-div">
-							<input type="checkbox" required="" class="checkbox" name="" id="checkbox">
+							<input type="checkbox" required="" class="checkbox" id="checkbox">
 							<label for="checkbox"></label>
 							<p>Я даю свое согласие на обработку <br> <a href="" target="_blank">персональных данных</a></p>
 						</div>

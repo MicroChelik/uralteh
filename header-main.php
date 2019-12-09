@@ -36,10 +36,10 @@
 							<p><a href="mailto:manager@uralteh.ru">manager@uralteh.ru</a></p>
 						</div>
 						<div class="col-6">
-							<p><a href="tel:(3412) 600-999">(3412) 600-999</a> <br> <span>Ижевск</span></p>
+							<p><a href="tel:(3412)600-999">(3412) 600-999</a> <br> <span>Ижевск</span></p>
 						</div>
 						<div class="col-6">
-							<p><a href="tel:8 (800) 100-53-83">8 (800) 100-53-83</a> <br> <span>Регионы</span></p>
+							<p><a href="tel:8(800)100-53-83">8 (800) 100-53-83</a> <br> <span>Регионы</span></p>
 						</div>
 						<div class="col-12 justify-content-between d-flex">
 							<div>
@@ -49,7 +49,7 @@
 							</div>
 							<div>
 								<a class="placemark" data-fancybox data-animation-duration="700" data-src="#showMap" href="javascript:;">
-									<img src="img/icons/placemarkBlack.svg">
+									<img src="img/icons/placemarkBlack.svg" alt="Карты">
 								</a>
 							</div>
 						</div>
@@ -62,7 +62,7 @@
 				</div>
 				<div class="col-auto">
 					<form id="search2" class="search">
-						<input type="search" placeholder="Поиск" name="">
+						<input type="search" placeholder="Поиск">
 					</form>
 				</div>
 			</div>
@@ -70,7 +70,7 @@
 				<div class="col-lg-3 d-none d-lg-block">
 					<div class="additional-header">
 						<div class="additional-header__logo">
-							<img src="img/logo.png">
+							<img src="img/logo.png" alt="Логотип">
 						</div>
 						<div class="additional-header__products">
 							<ul>
@@ -94,16 +94,16 @@
 						</div>
 						<div class="additional-header_social">
 							<a href="">
-								<img src="img/icons/skype.svg">
+								<img src="img/icons/skype.svg" alt="skype">
 							</a>
 							<a href="">
-								<img src="img/icons/whatsapp.svg">
+								<img src="img/icons/whatsapp.svg" alt="whatsapp">
 							</a>
 							<a href="">
-								<img src="img/icons/viber.svg">
+								<img src="img/icons/viber.svg" alt="viber">
 							</a>
 							<a href="">
-								<img src="img/icons/inst.svg">
+								<img src="img/icons/inst.svg" alt="instagram">
 							</a>
 						</div>
 					</div>
@@ -118,7 +118,7 @@
 				                     <span></span>
 				                </div>
 				                <p>МЕНЮ</p>
-				                <div class="menu">
+				                <!-- <div class="menu">
 				                	<ul>
 				                		<li><a href="">Главная</a></li>
 				                		<li><a href="">Главная</a></li>
@@ -138,7 +138,7 @@
 				                		<li><a href="">Главная</a></li>
 				                		<li><a href="">Оченьдлиннаястраница очень</a></li>
 				                	</ul>
-				                </div>
+				                </div> -->
 							</div>
 							<div class="main-header__block2">
 								<div>
@@ -157,16 +157,39 @@
 								</div>
 								<div>
 									<form id="search" class="search">
-										<input type="search" placeholder="Поиск" name="">
+										<input type="search" placeholder="Поиск">
 									</form>
 								</div>
 								<div>
 									<a class="placemark" data-fancybox data-animation-duration="700" data-src="#showMap" href="javascript:;">
-										<img src="img/icons/placemark.svg">
+										<img src="img/icons/placemark.svg" alt="Карта">
 									</a>
 								</div>
 							</div>
 						</div>
+
+								<div class="menu">
+				                	<ul>
+				                		<li><a href="">Главная</a></li>
+				                		<li><a href="">Главная</a></li>
+				                		<li><a href="">Главная</a></li>
+				                		<li><a href="">Оченьдлиннаястраница очень</a></li>
+				                		<li><a href="">Главная</a></li>
+				                	</ul>
+				                	<ul>
+				                		<li><a href="">Главная</a></li>
+				                		<li><a href="">Главная</a></li>
+				                		<li><a href="">Оченьдлиннаястраница очень</a></li>
+				                		<li><a href="">Главная</a></li>
+				                		<li><a href="">Оченьдлиннаястраница очень</a></li>
+				                	</ul>
+				                	<ul>
+				                		<li><a href="">Главная</a></li>
+				                		<li><a href="">Главная</a></li>
+				                		<li><a href="">Оченьдлиннаястраница очень</a></li>
+				                	</ul>
+				                </div>
+
 						<div class="main-header__link d-none d-lg-block">
 							<a href="">
 								с <br> о <br> б <br> р <br> а <br> т <br> ь <br> <br> к <br> р <br> а <br> н 
@@ -177,15 +200,15 @@
 								<h3>Вот вам яркий пример современных тенденций - сплочённость команды.</h3>
 								<div class="main-header__advantages">
 									<div>
-										<img src="img/icons/advantage1.svg">
+										<img src="img/icons/advantage1.svg" alt="Преимущество">
 										<p>Быстрое оформление документов</p>
 									</div>
 									<div>
-										<img src="img/icons/advantage2.svg">
+										<img src="img/icons/advantage2.svg" alt="Преимущество">
 										<p>Наличный и безналичный расчёт</p>
 									</div>
 									<div>
-										<img src="img/icons/advantage3.svg">
+										<img src="img/icons/advantage3.svg" alt="Преимущество">
 										<p>На рынке с 1999 года</p>
 									</div>
 								</div>
@@ -195,15 +218,15 @@
 								<h3>Вот вам яркий пример современных тенденций - сплочённость команды.</h3>
 								<div class="main-header__advantages">
 									<div>
-										<img src="img/icons/advantage1.svg">
+										<img src="img/icons/advantage1.svg" alt="Преимущество">
 										<p>Быстрое оформление документов</p>
 									</div>
 									<div>
-										<img src="img/icons/advantage2.svg">
+										<img src="img/icons/advantage2.svg" alt="Преимущество">
 										<p>Наличный и безналичный расчёт</p>
 									</div>
 									<div>
-										<img src="img/icons/advantage3.svg">
+										<img src="img/icons/advantage3.svg" alt="Преимущество">
 										<p>На рынке с 1999 года</p>
 									</div>
 								</div>

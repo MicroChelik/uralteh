@@ -29,49 +29,49 @@
 					<div class="sertificates-slider__slide">
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
@@ -79,49 +79,49 @@
 					<div class="sertificates-slider__slide">
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
 						<div class="col-lg-3 sertificates-slider__content">
 							<a href="img/sertificate1.png" data-fancybox="gallery">
-								<img src="img/sertificate1.png">
+								<img src="img/sertificate1.png" alt="Сертификат">
 							</a>
 							<p>Название сертификата</p>
 						</div>
@@ -135,13 +135,13 @@
 			<div class="sertificates-slider-mobile d-lg-none d-block typical-slider">
 				<div class="typical-slider__slide sertificates-slider__content">
 					<a href="img/sertificate1.png" data-fancybox="gallery">
-						<img src="img/sertificate1.png">
+						<img src="img/sertificate1.png" alt="Сертификат">
 					</a>
 					<p>Название сертификата</p>
 				</div>
 				<div class="typical-slider__slide sertificates-slider__content">
 					<a href="img/sertificate1.png" data-fancybox="gallery">
-						<img src="img/sertificate1.png">
+						<img src="img/sertificate1.png" alt="Сертификат">
 					</a>
 					<p>Название сертификата</p>
 				</div>

@@ -32,7 +32,7 @@
 					    <div class="card-header" id="headingOne">
 					      <h5 class="mb-0">
 					        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-					        	<img src="img/icons/accordion.svg">   Принимая во внимание показатели успешности, сплочённость команды профессионалов требует от нас анализа приоритизации разума над эмоциями.
+					        	<img src="img/icons/accordion.svg" alt="Раскрыть/Скрыть">   Принимая во внимание показатели успешности, сплочённость команды профессионалов требует от нас анализа приоритизации разума над эмоциями.
 					        </button>
 					      </h5>
 					    </div>
@@ -47,7 +47,7 @@
 					    <div class="card-header" id="headingTwo">
 					      <h5 class="mb-0">
 					        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-					          	<img src="img/icons/accordion.svg">   Принимая во внимание показатели успешности, сплочённость команды профессионалов требует от нас анализа приоритизации разума над эмоциями.
+					          	<img src="img/icons/accordion.svg" alt="Раскрыть/Скрыть">   Принимая во внимание показатели успешности, сплочённость команды профессионалов требует от нас анализа приоритизации разума над эмоциями.
 					        </button>
 					      </h5>
 					    </div>
@@ -61,7 +61,7 @@
 					    <div class="card-header" id="headingThree">
 					      <h5 class="mb-0">
 					        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-					        	<img src="img/icons/accordion.svg">   Принимая во внимание показатели успешности, сплочённость команды профессионалов требует от нас анализа приоритизации разума над эмоциями.
+					        	<img src="img/icons/accordion.svg" alt="Раскрыть/Скрыть">   Принимая во внимание показатели успешности, сплочённость команды профессионалов требует от нас анализа приоритизации разума над эмоциями.
 					        </button>
 					      </h5>
 					    </div>

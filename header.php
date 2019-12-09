@@ -4,7 +4,7 @@
 				<div class="col-lg-2 page-header__logo">
 					<div>
 						<a href="index.php">
-							<img src="img/logo.png">
+							<img src="img/logo.png" alt="Логотип">
 						</a>
 					</div>
 				</div>
@@ -15,7 +15,38 @@
 	                     <span></span>
 	                </div>
 	                <p>МЕНЮ</p>
-	                <div class="menu">
+	                
+				</div>
+				<div class="col-lg-7 offset-lg-0 page-header__col">
+					<div class="main-header__block2">
+						<div>
+							<p><a href="mailto:manager@uralteh.ru">manager@uralteh.ru</a></p>
+						</div>
+						<div>
+							<p><a href="tel:(3412)600-999">(3412) 600-999</a> <br> <span>Ижевск</span></p>
+						</div>
+						<div>
+							<p><a href="tel:8(800)100-53-83">8 (800) 100-53-83</a> <br> <span>Регионы</span></p>
+						</div>
+						<div>
+							<a data-fancybox data-animation-duration="700" data-src="#orderCall" href="javascript:;">
+								<button class="redBtn">Заказать звонок</button>
+							</a>
+						</div>
+						<div>
+							<form id="search" class="search">
+								<input type="search" placeholder="Поиск">
+							</form>
+						</div>
+						<div>
+							<a class="placemark" data-fancybox data-animation-duration="700" data-src="#showMap" href="javascript:;">
+								<img src="img/icons/placemarkBlack.svg" alt="Карта">
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="menu">
 	                	<ul>
 	                		<li><a href="">Главная</a></li>
 	                		<li><a href="">Главная</a></li>
@@ -36,36 +67,6 @@
 	                		<li><a href="">Оченьдлиннаястраница очень</a></li>
 	                	</ul>
 	                </div>
-				</div>
-				<div class="col-lg-7 offset-lg-0 page-header__col">
-					<div class="main-header__block2">
-						<div>
-							<p><a href="mailto:manager@uralteh.ru">manager@uralteh.ru</a></p>
-						</div>
-						<div>
-							<p><a href="tel:(3412) 600-999">(3412) 600-999</a> <br> <span>Ижевск</span></p>
-						</div>
-						<div>
-							<p><a href="tel:8 (800) 100-53-83">8 (800) 100-53-83</a> <br> <span>Регионы</span></p>
-						</div>
-						<div>
-							<a data-fancybox data-animation-duration="700" data-src="#orderCall" href="javascript:;">
-								<button class="redBtn">Заказать звонок</button>
-							</a>
-						</div>
-						<div>
-							<form id="search" class="search">
-								<input type="search" placeholder="Поиск" name="">
-							</form>
-						</div>
-						<div>
-							<a class="placemark" data-fancybox data-animation-duration="700" data-src="#showMap" href="javascript:;">
-								<img src="img/icons/placemarkBlack.svg">
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
 			<div class="row header-mobile d-flex d-lg-none">
 				<div class="col-auto">
 					<div class="menuFive menuFiveMob">
@@ -102,10 +103,10 @@
 							<p><a href="mailto:manager@uralteh.ru">manager@uralteh.ru</a></p>
 						</div>
 						<div class="col-6">
-							<p><a href="tel:(3412) 600-999">(3412) 600-999</a> <br> <span>Ижевск</span></p>
+							<p><a href="tel:(3412)600-999">(3412) 600-999</a> <br> <span>Ижевск</span></p>
 						</div>
 						<div class="col-6">
-							<p><a href="tel:8 (800) 100-53-83">8 (800) 100-53-83</a> <br> <span>Регионы</span></p>
+							<p><a href="tel:8(800)100-53-83">8 (800) 100-53-83</a> <br> <span>Регионы</span></p>
 						</div>
 						<div class="col-12 justify-content-between d-flex">
 							<div>
@@ -115,7 +116,7 @@
 							</div>
 							<div>
 								<a class="placemark" data-fancybox data-animation-duration="700" data-src="#showMap" href="javascript:;">
-									<img src="img/icons/placemarkBlack.svg">
+									<img src="img/icons/placemarkBlack.svg" alt="Карта">
 								</a>
 							</div>
 						</div>
@@ -123,12 +124,12 @@
 				</div>
 				<div class="col-auto">
 					<a href="index.php" class="mobile-home-link">
-						<img src="img/logo-mobile.png">
+						<img src="img/logo-mobile.png" alt="Логотип">
 					</a>
 				</div>
 				<div class="col-auto">
 					<form id="search2" class="search">
-						<input type="search" placeholder="Поиск" name="">
+						<input type="search" placeholder="Поиск">
 					</form>
 				</div>
 			</div>

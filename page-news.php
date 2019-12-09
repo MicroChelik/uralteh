@@ -10,7 +10,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 section-image-bentween-blocks__image">
-						<img src="img/company.png">
+						<img src="img/company.png" alt="Фотография">
 					</div>
 
 					<div aria-label="breadcrumb" class="breadcrumbNav">
@@ -61,7 +61,7 @@
 			</div>
 			<div class="row justify-content-end">
 				<div class="col-auto">
-					<a href="" class="h2-a">слeдующая новость <img src="img/icons/aArrow.svg" class="ml-2"></a>
+					<a href="" class="h2-a">слeдующая новость <img src="img/icons/aArrow.svg" alt="Перейти" class="ml-2"></a>
 				</div>
 			</div>
 		</div>

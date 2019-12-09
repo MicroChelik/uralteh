@@ -26,7 +26,7 @@
 
 			<div class="row basket-product">
 				<div class="col-lg-2 basket-product__image">
-					<img src="img/basket1.png">
+					<img src="img/basket1.png" alt="Фото товара">
 				</div>
 				<div class="col-lg-3 basket-product__description">
 					<div class="basket-product__name">
@@ -85,14 +85,14 @@
 				</div>
 				<div class="col-lg-auto basket-product__delete order-first order-lg-last">
 					<div>
-						<img src="img/icons/close.svg">
+						<img src="img/icons/close.svg" alt="Удалить">
 					</div>
 				</div>
 			</div>
 
 			<div class="row basket-product">
 				<div class="col-lg-2 basket-product__image">
-					<img src="img/basket1.png">
+					<img src="img/basket1.png" alt="Фото товара">
 				</div>
 				<div class="col-lg-3 basket-product__description">
 					<div class="basket-product__name">
@@ -151,7 +151,7 @@
 				</div>
 				<div class="col-lg-auto basket-product__delete order-first order-lg-last">
 					<div>
-						<img src="img/icons/close.svg">
+						<img src="img/icons/close.svg" alt="Удалить">
 					</div>
 				</div>
 			</div>
@@ -163,13 +163,13 @@
 					</div>
 					<form class="order-form__form">
 						<div class="order-form__inputs">
-							<input type="text" placeholder="Имя *" required="" name="">
-							<input type="email" placeholder="Email *" required="" name="">
-							<input type="text" placeholder="Номер телефона *" required="" name="">
-							<input type="text" placeholder="Комментарий" name="">
+							<input type="text" placeholder="Имя *" required="">
+							<input type="email" placeholder="Email *" required="">
+							<input type="text" placeholder="Номер телефона *" required="">
+							<input type="text" placeholder="Комментарий">
 						</div>
 						<div class="checkbox-div">
-							<input type="checkbox" required="" class="checkbox" name="" id="checkbox">
+							<input type="checkbox" required="" class="checkbox" id="checkbox">
 							<label for="checkbox"></label>
 							<p>Я даю свое согласие на обработку <a href="" target="_blank">персональных данных</a></p>
 						</div>
@@ -177,7 +177,7 @@
 					</form>
 				</div>
 				<div class="col-lg-3 offset-lg-1 basket-image">
-					<img src="img/basket2.png">
+					<img src="img/basket2.png" alt="Фотография">
 				</div>
 			</div>
 			

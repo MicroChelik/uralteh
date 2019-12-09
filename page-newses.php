@@ -37,12 +37,12 @@
 				</div>
 				<div class="col-1 view">
 					<div class="view-list">
-						<img src="img/icons/list.svg" class="list disable show">
-						<img src="img/icons/listBlue.png" class="list active">
+						<img src="img/icons/list.svg" alt="Показать построчно" class="list disable show">
+						<img src="img/icons/listBlue.png" alt="Показать построчно" class="list active">
 					</div>
 					<div class="view-grid">
-						<img src="img/icons/grid.svg" class="grid active show">
-						<img src="img/icons/gridGrey.png" class="grid disable">
+						<img src="img/icons/grid.svg" alt="Показать сеткой" class="grid active show">
+						<img src="img/icons/gridGrey.png" alt="Показать сеткой" class="grid disable">
 					</div>
 				</div>
 			</div>
@@ -51,7 +51,7 @@
 					<div class="newses-list-slider__slide">
 						<div class="typical-mini-slider__block">
 							<div class="typical-mini-slider__image">
-								<img src="img/news1.png">
+								<img src="img/news1.png" alt="Фотография новости">
 							</div>
 							<div class="typical-mini-slider__text">
 								<p class="title">
@@ -65,7 +65,7 @@
 						</div>
 						<div class="typical-mini-slider__block">
 							<div class="typical-mini-slider__image">
-								<img src="img/news1.png">
+								<img src="img/news1.png" alt="Фотография новости">
 							</div>
 							<div class="typical-mini-slider__text">
 								<p class="title">
@@ -79,7 +79,7 @@
 						</div>
 						<div class="typical-mini-slider__block">
 							<div class="typical-mini-slider__image">
-								<img src="img/news1.png">
+								<img src="img/news1.png" alt="Фотография новости">
 							</div>
 							<div class="typical-mini-slider__text">
 								<p class="title">
@@ -93,7 +93,7 @@
 						</div>
 						<div class="typical-mini-slider__block">
 							<div class="typical-mini-slider__image">
-								<img src="img/news1.png">
+								<img src="img/news1.png" alt="Фотография новости">
 							</div>
 							<div class="typical-mini-slider__text">
 								<p class="title">
@@ -109,7 +109,7 @@
 					<div class="newses-list-slider__slide">
 						<div class="typical-mini-slider__block">
 							<div class="typical-mini-slider__image">
-								<img src="img/news1.png">
+								<img src="img/news1.png" alt="Фотография новости">
 							</div>
 							<div class="typical-mini-slider__text">
 								<p class="title">
@@ -123,7 +123,7 @@
 						</div>
 						<div class="typical-mini-slider__block">
 							<div class="typical-mini-slider__image">
-								<img src="img/news1.png">
+								<img src="img/news1.png" alt="Фотография новости">
 							</div>
 							<div class="typical-mini-slider__text">
 								<p class="title">
@@ -137,7 +137,7 @@
 						</div>
 						<div class="typical-mini-slider__block">
 							<div class="typical-mini-slider__image">
-								<img src="img/news1.png">
+								<img src="img/news1.png" alt="Фотография новости">
 							</div>
 							<div class="typical-mini-slider__text">
 								<p class="title">
@@ -151,7 +151,7 @@
 						</div>
 						<div class="typical-mini-slider__block">
 							<div class="typical-mini-slider__image">
-								<img src="img/news1.png">
+								<img src="img/news1.png" alt="Фотография новости">
 							</div>
 							<div class="typical-mini-slider__text">
 								<p class="title">
@@ -173,7 +173,7 @@
 			<div class="newses-slider-mobile d-lg-none d-block typical-slider">
 				<div class="typical-mini-slider__block">
 					<div class="typical-mini-slider__image">
-						<img src="img/news1.png">
+						<img src="img/news1.png" alt="Фотография новости">
 					</div>
 					<div class="typical-mini-slider__text">
 						<p class="title">
@@ -187,7 +187,7 @@
 				</div>
 				<div class="typical-mini-slider__block">
 					<div class="typical-mini-slider__image">
-						<img src="img/news1.png">
+						<img src="img/news1.png" alt="Фотография новости">
 					</div>
 					<div class="typical-mini-slider__text">
 						<p class="title">
@@ -206,7 +206,7 @@
 	</section>
 
 	<div class="city-bg">
-		<img src="img/bg6.png">
+		<img src="img/bg6.png" alt="Фон">
 	</div>
 
 

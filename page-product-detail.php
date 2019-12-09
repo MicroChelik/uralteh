@@ -19,7 +19,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-lg-6 pl-0 big-img-block imgW100">
-					<img src="img/bg7.png">
+					<img src="img/bg7.png" alt="Фотография">
 				</div>
 				<div class="col-lg-5 d-flex align-items-center">
 					<div>
@@ -50,31 +50,31 @@
 													<h3 class="big-form__title">Характеристики оборудования</h3>
 													<div class="big-form__block">
 														<p>Грузоподъемность</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Грузоподъемность</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Грузоподъемность</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Грузоподъемность</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Грузоподъемность</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Грузоподъемность</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Грузоподъемность</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 												</div>
 
@@ -121,31 +121,31 @@
 													<h3 class="big-form__title">Опции повышающие эффективность крана</h3>
 													<div class="big-form__block">
 														<p>Кол-во скоростей</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Кол-во скоростей</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Кол-во скоростей</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Кол-во скоростей</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Кол-во скоростей</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Кол-во скоростей</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Галерея обслуживания потолочного освещения</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 												</div>
 
@@ -153,28 +153,28 @@
 													<h3 class="big-form__title">Дополнительные услуги</h3>
 													<div class="big-form__block adress-block">
 														<p>Доставка до места назначения</p>
-														<input type="text" class="big-form__address" placeholder="Город  назначения" value="" name="">
+														<input type="text" class="big-form__address" placeholder="Город  назначения" value="">
 													</div>
 													<div class="big-form__block">
 														<p>Монтажные и пусконаладочные работы</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 													<div class="big-form__block">
 														<p>Демонтаж старого оборудования</p>
-														<input type="text" placeholder="10" value="10" name="">
+														<input type="text" placeholder="10" value="10">
 													</div>
 												</div>
 
 												<div class="big-form__inputs">
 													<h3 class="big-form__title text-center">Контактная информация</h3>
-													<input class="w100Input" type="text" required="" placeholder="Название организации, ИНН" name="">
-													<input type="text" required="" placeholder="Местонахождение организации" name="">
-													<input type="text" required="" placeholder="Контакты" name="">
-													<input type="text" required="" placeholder="ФИО, должность ответственного лица" name="">
-													<input type="email" required="" placeholder="E-mail" name="">
+													<input class="w100Input" type="text" required="" placeholder="Название организации, ИНН">
+													<input type="text" required="" placeholder="Местонахождение организации">
+													<input type="text" required="" placeholder="Контакты">
+													<input type="text" required="" placeholder="ФИО, должность ответственного лица">
+													<input type="email" required="" placeholder="E-mail">
 													<div class="big-form__send">
 														<div class="checkbox-div">
-															<input type="checkbox" required="" class="checkbox" name="" id="checkbox1010">
+															<input type="checkbox" required="" class="checkbox" id="checkbox1010">
 															<label for="checkbox1010"></label>
 															<p>Я даю свое согласие на обработку <a href="" target="_blank">персональных данных</a></p>
 														</div>
@@ -330,28 +330,28 @@
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox">
+										<input type="checkbox" required="" class="checkbox" id="checkbox">
 										<label for="checkbox"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox1">
+										<input type="checkbox" required="" class="checkbox" id="checkbox1">
 										<label for="checkbox1"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox2">
+										<input type="checkbox" required="" class="checkbox" id="checkbox2">
 										<label for="checkbox2"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox3">
+										<input type="checkbox" required="" class="checkbox" id="checkbox3">
 										<label for="checkbox3"></label>
 									</div>
 									Параметры
@@ -363,28 +363,28 @@
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox4">
+										<input type="checkbox" required="" class="checkbox" id="checkbox4">
 										<label for="checkbox4"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox5">
+										<input type="checkbox" required="" class="checkbox" id="checkbox5">
 										<label for="checkbox5"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox6">
+										<input type="checkbox" required="" class="checkbox" id="checkbox6">
 										<label for="checkbox6"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox7">
+										<input type="checkbox" required="" class="checkbox" id="checkbox7">
 										<label for="checkbox7"></label>
 									</div>
 									Параметры
@@ -396,28 +396,28 @@
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox8">
+										<input type="checkbox" required="" class="checkbox" id="checkbox8">
 										<label for="checkbox8"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox9">
+										<input type="checkbox" required="" class="checkbox" id="checkbox9">
 										<label for="checkbox9"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox10">
+										<input type="checkbox" required="" class="checkbox" id="checkbox10">
 										<label for="checkbox10"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox11">
+										<input type="checkbox" required="" class="checkbox" id="checkbox11">
 										<label for="checkbox11"></label>
 									</div>
 									Параметры
@@ -429,28 +429,28 @@
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox12">
+										<input type="checkbox" required="" class="checkbox" id="checkbox12">
 										<label for="checkbox12"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox13">
+										<input type="checkbox" required="" class="checkbox" id="checkbox13">
 										<label for="checkbox13"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox14">
+										<input type="checkbox" required="" class="checkbox" id="checkbox14">
 										<label for="checkbox14"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox15">
+										<input type="checkbox" required="" class="checkbox" id="checkbox15">
 										<label for="checkbox15"></label>
 									</div>
 									Параметры
@@ -462,28 +462,28 @@
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox16">
+										<input type="checkbox" required="" class="checkbox" id="checkbox16">
 										<label for="checkbox16"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox17">
+										<input type="checkbox" required="" class="checkbox" id="checkbox17">
 										<label for="checkbox17"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox18">
+										<input type="checkbox" required="" class="checkbox" id="checkbox18">
 										<label for="checkbox18"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox19">
+										<input type="checkbox" required="" class="checkbox" id="checkbox19">
 										<label for="checkbox19"></label>
 									</div>
 									Параметры
@@ -495,28 +495,28 @@
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox20">
+										<input type="checkbox" required="" class="checkbox" id="checkbox20">
 										<label for="checkbox20"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox21">
+										<input type="checkbox" required="" class="checkbox" id="checkbox21">
 										<label for="checkbox21"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox22">
+										<input type="checkbox" required="" class="checkbox" id="checkbox22">
 										<label for="checkbox22"></label>
 									</div>
 									Параметры
 								</td>
 								<td>
 									<div class="checkbox-div">
-										<input type="checkbox" required="" class="checkbox" name="" id="checkbox23">
+										<input type="checkbox" required="" class="checkbox" id="checkbox23">
 										<label for="checkbox23"></label>
 									</div>
 									Параметры
@@ -545,7 +545,7 @@
 				<div class="products-detail-slider slider">
 					<div class="typical-slider__slide">
 						<div class="typical-slider__image">
-							<img src="img/solution1.png">
+							<img src="img/solution1.png" alt="Фотография оборудования">
 							<div class="typical-slider__text">
 								<h3>Название оборудования</h3>
 								<div class="typical-slider__links">
@@ -559,7 +559,7 @@
 					</div>
 					<div class="typical-slider__slide">
 						<div class="typical-slider__image">
-							<img src="img/solution1.png">
+							<img src="img/solution1.png" alt="Фотография оборудования">
 							<div class="typical-slider__text">
 								<h3>Название оборудования</h3>
 								<div class="typical-slider__links">
@@ -573,7 +573,7 @@
 					</div>
 					<div class="typical-slider__slide">
 						<div class="typical-slider__image">
-							<img src="img/solution1.png">
+							<img src="img/solution1.png" alt="Фотография оборудования">
 							<div class="typical-slider__text">
 								<h3>Название оборудования</h3>
 								<div class="typical-slider__links">
@@ -587,7 +587,7 @@
 					</div>
 					<div class="typical-slider__slide">
 						<div class="typical-slider__image">
-							<img src="img/solution1.png">
+							<img src="img/solution1.png" alt="Фотография оборудования">
 							<div class="typical-slider__text">
 								<h3>Название оборудования</h3>
 								<div class="typical-slider__links">

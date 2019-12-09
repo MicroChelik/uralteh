@@ -30,7 +30,7 @@
 						<div class="col-lg-4">
 							<div class="typical-slider__slide">
 								<div class="typical-slider__image">
-									<img src="img/equipment1.png">
+									<img src="img/equipment1.png" alt="Фотография оборудования">
 									<div class="typical-slider__text">
 										<h3>Название оборудования</h3>
 										<div class="typical-slider__links">
@@ -46,7 +46,7 @@
 						<div class="col-lg-4">
 							<div class="typical-slider__slide">
 								<div class="typical-slider__image">
-									<img src="img/equipment1.png">
+									<img src="img/equipment1.png" alt="Фотография оборудования">
 									<div class="typical-slider__text">
 										<h3>Название оборудования</h3>
 										<div class="typical-slider__links">
@@ -62,7 +62,7 @@
 						<div class="col-lg-4">
 							<div class="typical-slider__slide">
 								<div class="typical-slider__image">
-									<img src="img/equipment1.png">
+									<img src="img/equipment1.png" alt="Фотография оборудования">
 									<div class="typical-slider__text">
 										<h3>Название оборудования</h3>
 										<div class="typical-slider__links">
@@ -78,7 +78,7 @@
 						<div class="col-lg-4">
 							<div class="typical-slider__slide">
 								<div class="typical-slider__image">
-									<img src="img/equipment1.png">
+									<img src="img/equipment1.png" alt="Фотография оборудования">
 									<div class="typical-slider__text">
 										<h3>Название оборудования</h3>
 										<div class="typical-slider__links">
@@ -94,7 +94,7 @@
 						<div class="col-lg-4">
 							<div class="typical-slider__slide">
 								<div class="typical-slider__image">
-									<img src="img/equipment1.png">
+									<img src="img/equipment1.png" alt="Фотография оборудования">
 									<div class="typical-slider__text">
 										<h3>Название оборудования</h3>
 										<div class="typical-slider__links">
@@ -112,7 +112,7 @@
 						<div class="col-lg-4">
 							<div class="typical-slider__slide">
 								<div class="typical-slider__image">
-									<img src="img/equipment1.png">
+									<img src="img/equipment1.png" alt="Фотография оборудования">
 									<div class="typical-slider__text">
 										<h3>Название оборудования</h3>
 										<div class="typical-slider__links">
@@ -128,7 +128,7 @@
 						<div class="col-lg-4">
 							<div class="typical-slider__slide">
 								<div class="typical-slider__image">
-									<img src="img/equipment1.png">
+									<img src="img/equipment1.png" alt="Фотография оборудования">
 									<div class="typical-slider__text">
 										<h3>Название оборудования</h3>
 										<div class="typical-slider__links">
@@ -144,7 +144,7 @@
 						<div class="col-lg-4">
 							<div class="typical-slider__slide">
 								<div class="typical-slider__image">
-									<img src="img/equipment1.png">
+									<img src="img/equipment1.png" alt="Фотография оборудования">
 									<div class="typical-slider__text">
 										<h3>Название оборудования</h3>
 										<div class="typical-slider__links">
@@ -160,7 +160,7 @@
 						<div class="col-lg-4">
 							<div class="typical-slider__slide">
 								<div class="typical-slider__image">
-									<img src="img/equipment1.png">
+									<img src="img/equipment1.png" alt="Фотография оборудования">
 									<div class="typical-slider__text">
 										<h3>Название оборудования</h3>
 										<div class="typical-slider__links">
@@ -176,7 +176,7 @@
 						<div class="col-lg-4">
 							<div class="typical-slider__slide">
 								<div class="typical-slider__image">
-									<img src="img/equipment1.png">
+									<img src="img/equipment1.png" alt="Фотография оборудования">
 									<div class="typical-slider__text">
 										<h3>Название оборудования</h3>
 										<div class="typical-slider__links">
@@ -199,7 +199,7 @@
 			<div class="services-slider-mobile d-lg-none d-block typical-slider">
 				<div class="typical-slider__slide">
 					<div class="typical-slider__image">
-						<img src="img/equipment1.png">
+						<img src="img/equipment1.png" alt="Фотография оборудования">
 						<div class="typical-slider__text">
 							<h3>Название оборудования</h3>
 							<div class="typical-slider__links">
@@ -213,7 +213,7 @@
 				</div>
 				<div class="typical-slider__slide">
 					<div class="typical-slider__image">
-						<img src="img/equipment1.png">
+						<img src="img/equipment1.png" alt="Фотография оборудования">
 						<div class="typical-slider__text">
 							<h3>Название оборудования в две строки</h3>
 							<div class="typical-slider__links">
@@ -227,7 +227,7 @@
 				</div>
 				<div class="typical-slider__slide">
 					<div class="typical-slider__image">
-						<img src="img/equipment1.png">
+						<img src="img/equipment1.png" alt="Фотография оборудования">
 						<div class="typical-slider__text">
 							<h3>Название оборудования</h3>
 							<div class="typical-slider__links">
@@ -241,7 +241,7 @@
 				</div>
 				<div class="typical-slider__slide">
 					<div class="typical-slider__image">
-						<img src="img/equipment1.png">
+						<img src="img/equipment1.png" alt="Фотография оборудования">
 						<div class="typical-slider__text">
 							<h3>Название оборудования</h3>
 							<div class="typical-slider__links">
@@ -255,7 +255,7 @@
 				</div>
 				<div class="typical-slider__slide">
 					<div class="typical-slider__image">
-						<img src="img/equipment1.png">
+						<img src="img/equipment1.png" alt="Фотография оборудования">
 						<div class="typical-slider__text">
 							<h3>Название оборудования</h3>
 							<div class="typical-slider__links">
@@ -273,7 +273,7 @@
 	</section>
 
 	<div class="city-bg">
-		<img src="img/bg6.png">
+		<img src="img/bg6.png" alt="Фотография">
 	</div>
 
 <?php

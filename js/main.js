@@ -234,6 +234,15 @@ $(document).ready(function(){
 		nextArrow: '.next1',
 		dots: false,
 		swipeToSlide: true,
+		responsive: [
+			{
+				breakpoint: 960,
+				settings: {
+					dots: true,
+					dotsClass: "blue-dots",
+				}
+			}
+		]
 	});
 	$('.publication-slider').slick({
 		infinite: false,
@@ -244,6 +253,15 @@ $(document).ready(function(){
 		arrows: true,
 		dots: false,
 		swipeToSlide: true,
+		responsive: [
+			{
+				breakpoint: 960,
+				settings: {
+					dots: true,
+					dotsClass: "blue-dots",
+				}
+			}
+		]
 	});
 	// $('.services-slider').slick({
 	// 	infinite: false,
