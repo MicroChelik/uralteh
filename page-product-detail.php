@@ -318,7 +318,7 @@
 	
 				<div class="col-12">
 					<div class="h2-block">
-						<h2>Дополнительные оборудования</h2>
+						<h2>Дополнительное оборудование</h2>
 					</div>
 				</div>
 				<div class="col-12 table-div">

@@ -26,7 +26,7 @@
 
 			<div class="row basket-product">
 				<div class="col-lg-2 basket-product__image">
-					<img src="img/basket1.png" alt="Фото товара">
+					<img src="img/basket1.webp" alt="Фото товара">
 				</div>
 				<div class="col-lg-3 basket-product__description">
 					<div class="basket-product__name">
@@ -92,7 +92,7 @@
 
 			<div class="row basket-product">
 				<div class="col-lg-2 basket-product__image">
-					<img src="img/basket1.png" alt="Фото товара">
+					<img src="img/basket1.webp" alt="Фото товара">
 				</div>
 				<div class="col-lg-3 basket-product__description">
 					<div class="basket-product__name">
@@ -177,7 +177,7 @@
 					</form>
 				</div>
 				<div class="col-lg-3 offset-lg-1 basket-image">
-					<img src="img/basket2.png" alt="Фотография">
+					<img src="img/basket2.webp" alt="Фотография">
 				</div>
 			</div>
 			
