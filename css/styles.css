@@ -266,11 +266,9 @@ a:hover{
 .typical-slider__image:hover .typical-slider__text{
   background: rgba(0,0,0,.5);
   height: 100%;
-  padding-top: 25%;
-}
-.products-detail-slider .typical-slider__image:hover .typical-slider__text,
-.section-solutions__slider .typical-slider__image:hover .typical-slider__text{
-  padding-top: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
 }
 .typical-slider__text h3,
 .typical-slider__text .typical-slider__links{
@@ -1595,13 +1593,7 @@ input::-webkit-search-cancel-button {
   .typical-mini-slider__text .title{
     font-size: 16px;
   }
-  .typical-slider__image:hover .typical-slider__text{
-    padding-top: 10%;
-  }
-  .products-detail-slider .typical-slider__image:hover .typical-slider__text,
-  .section-solutions__slider .typical-slider__image:hover .typical-slider__text{
-    padding-top: 5%;
-  }
+
   .typical-slider__text h3{
     font-size: 16px;
   }
